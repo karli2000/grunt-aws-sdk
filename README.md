@@ -1,4 +1,6 @@
-# grunt-aws-sdk
+# grunt-aws-sdk-extended
+
+Fork from [grunt-sdk](https://github.com/EastCloud/grunt-aws-sdk) with added service "CodeDeploy".
 
 > The bridge between `grunt` and `aws-sdk`. This moudle allows you to call AWS APIs as grunt tasks.
 
